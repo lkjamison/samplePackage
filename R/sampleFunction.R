@@ -28,12 +28,6 @@ sampleFunction <- function(x) {
 
 }
 
-x <- c(1,2,3,4,5)
-sampleFunction(x)
-
-print.samplePackage_sampleFunction <- function(x){
-  cat("The mean of x is ", x$xMean)
-}
 
 
 
